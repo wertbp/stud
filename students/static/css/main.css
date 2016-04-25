@@ -1,30 +1,27 @@
 /* Global Styles */
-h1, h2, h3, h4, h5, h6 {
-	font-weight: bold;
-}
-
 .alert {
-	/* Ми додали відстань лише зверху елемента: -top */
-	margin-top: 10px;
+  margin: 10px 0 5px 0;
 }
-
-#footer {
-	/* задаємо верхню межу елемента: ширина лінії, тип лінії, колір лінії */
-	border-top: 1px solid #dddddd;
-	/* задаємо внутрішню відстань елемента до верхнього краю */
-	padding-top: 10px;
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
 }
 
 /* Groups Selector */
 #group-selector {
-	margin-top: 30px;
+  margin-top: 30px;
 }
 #group-selector select {
-	margin: 0;
-	width: 85%;
-	background-color: #ffffff;
-	border: 1px solid #cccccc;
-	height: 30px;
-	line-height: 30px;
-	color: #555555;
+  width: 80%;
+  margin: 0;
+  background-color: #ffffff;
+  border: 1px solid #cccccc;
+  height: 30px;
+  line-height: 30px;
+  color: #555555;
+}
+
+/* Footer Styles */
+#footer {
+  border-top: 1px solid #dddddd;
+  padding-top: 10px;
 }
