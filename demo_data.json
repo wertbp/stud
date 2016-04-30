@@ -1,0 +1,647 @@
+[
+{
+    "fields": {
+        "model": "logentry",
+        "name": "log entry",
+        "app_label": "admin"
+    },
+    "model": "contenttypes.contenttype",
+    "pk": 1
+},
+{
+    "fields": {
+        "model": "permission",
+        "name": "permission",
+        "app_label": "auth"
+    },
+    "model": "contenttypes.contenttype",
+    "pk": 2
+},
+{
+    "fields": {
+        "model": "group",
+        "name": "group",
+        "app_label": "auth"
+    },
+    "model": "contenttypes.contenttype",
+    "pk": 3
+},
+{
+    "fields": {
+        "model": "user",
+        "name": "user",
+        "app_label": "auth"
+    },
+    "model": "contenttypes.contenttype",
+    "pk": 4
+},
+{
+    "fields": {
+        "model": "contenttype",
+        "name": "content type",
+        "app_label": "contenttypes"
+    },
+    "model": "contenttypes.contenttype",
+    "pk": 5
+},
+{
+    "fields": {
+        "model": "session",
+        "name": "session",
+        "app_label": "sessions"
+    },
+    "model": "contenttypes.contenttype",
+    "pk": 6
+},
+{
+    "fields": {
+        "model": "student",
+        "name": "student",
+        "app_label": "students"
+    },
+    "model": "contenttypes.contenttype",
+    "pk": 7
+},
+{
+    "fields": {
+        "model": "group",
+        "name": "\u0413\u0440\u0443\u043f\u0430",
+        "app_label": "students"
+    },
+    "model": "contenttypes.contenttype",
+    "pk": 8
+},
+{
+    "fields": {
+        "expire_date": "2014-11-15T13:03:48.503Z",
+        "session_data": "MDNiNmQ2OWY4YzZjZWMyODFhZWM2ZDRhZDgxNzE1NjE1Yzc0ZDIwZjp7fQ=="
+    },
+    "model": "sessions.session",
+    "pk": "6krg6dzgrk18qg7y68vfrtjivsacz5ks"
+},
+{
+    "fields": {
+        "expire_date": "2014-11-15T13:03:51.896Z",
+        "session_data": "MDNiNmQ2OWY4YzZjZWMyODFhZWM2ZDRhZDgxNzE1NjE1Yzc0ZDIwZjp7fQ=="
+    },
+    "model": "sessions.session",
+    "pk": "iv401via0h4uovk4hwnxafhw9mrxfe23"
+},
+{
+    "fields": {
+        "expire_date": "2014-12-03T00:17:12.808Z",
+        "session_data": "NWU4NjRmOTUwOGQ5NDgxZGRlNzI2MDU0ZTVmOWJjZjMxZWIxNmFmZDp7Il9hdXRoX3VzZXJfaGFzaCI6IjljNzkxOGE4YTAxODE4NDk0YjRlMmZiODEyZWRkMjdkN2VkODI5YTkiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOjF9"
+    },
+    "model": "sessions.session",
+    "pk": "mvclwzvs0uqwpjcdg05ug0nb1paqwrj0"
+},
+{
+    "fields": {
+        "expire_date": "2014-11-24T13:48:32.951Z",
+        "session_data": "MDNiNmQ2OWY4YzZjZWMyODFhZWM2ZDRhZDgxNzE1NjE1Yzc0ZDIwZjp7fQ=="
+    },
+    "model": "sessions.session",
+    "pk": "r5ln1fzx2kpklj938z3svpyqllak4yi8"
+},
+{
+    "fields": {
+        "expire_date": "2014-11-23T10:46:01.969Z",
+        "session_data": "NWU4NjRmOTUwOGQ5NDgxZGRlNzI2MDU0ZTVmOWJjZjMxZWIxNmFmZDp7Il9hdXRoX3VzZXJfaGFzaCI6IjljNzkxOGE4YTAxODE4NDk0YjRlMmZiODEyZWRkMjdkN2VkODI5YTkiLCJfYXV0aF91c2VyX2JhY2tlbmQiOiJkamFuZ28uY29udHJpYi5hdXRoLmJhY2tlbmRzLk1vZGVsQmFja2VuZCIsIl9hdXRoX3VzZXJfaWQiOjF9"
+    },
+    "model": "sessions.session",
+    "pk": "yibmlzjio0jjacjooqrrixr2l6b4eqog"
+},
+{
+    "fields": {
+        "first_name": "Vitaliy",
+        "last_name": "Podoba",
+        "middle_name": "\u0406\u0432\u0430\u043d\u043e\u0432\u0438\u0447",
+        "photo": "./podoba3.jpg",
+        "notes": "\u043d\u043e\u0442\u0430\u0442\u043a\u0438",
+        "student_group": null,
+        "birthday": "2014-11-19",
+        "ticket": "1234"
+    },
+    "model": "students.student",
+    "pk": 1
+},
+{
+    "fields": {
+        "first_name": "\u041d\u043e\u0432\u0438\u0439",
+        "last_name": "\u0421\u0442\u0443\u0434\u0435\u043d\u0442",
+        "middle_name": "\u043f\u043e\u0431\u0430\u0442\u044c\u043a\u043e\u0432\u0456",
+        "photo": "",
+        "notes": "\u043d\u043e\u0442\u0430\u0442\u043a\u0438",
+        "student_group": null,
+        "birthday": "2014-09-23",
+        "ticket": "234'"
+    },
+    "model": "students.student",
+    "pk": 3
+},
+{
+    "fields": {
+        "first_name": "\u041d\u0430\u0437\u0430\u0440",
+        "last_name": "\u041a\u0435\u043d\u044c\u043e",
+        "middle_name": "",
+        "photo": "./piv.png",
+        "notes": "",
+        "student_group": null,
+        "birthday": "2014-11-18",
+        "ticket": "2123"
+    },
+    "model": "students.student",
+    "pk": 4
+},
+{
+    "fields": {
+        "first_name": "\u042f\u0440\u043e\u0441\u043b\u0430\u0432",
+        "last_name": "\u0406\u0437\u0434\u0440\u0438\u043a",
+        "middle_name": "\u041c\u0438\u0445\u0430\u0439\u043b\u043e\u0432\u0438\u0447",
+        "photo": "",
+        "notes": "",
+        "student_group": null,
+        "birthday": "2014-11-11",
+        "ticket": "999"
+    },
+    "model": "students.student",
+    "pk": 5
+},
+{
+    "fields": {
+        "first_name": "student 1",
+        "last_name": "last name 1",
+        "middle_name": "",
+        "photo": "",
+        "notes": "",
+        "student_group": null,
+        "birthday": "2014-11-19",
+        "ticket": "222"
+    },
+    "model": "students.student",
+    "pk": 6
+},
+{
+    "fields": {
+        "first_name": "demo",
+        "last_name": "student",
+        "middle_name": "",
+        "photo": "",
+        "notes": "",
+        "student_group": 1,
+        "birthday": "2014-11-27",
+        "ticket": "456"
+    },
+    "model": "students.student",
+    "pk": 7
+},
+{
+    "fields": {
+        "first_name": "student 3",
+        "last_name": "studnet 3",
+        "middle_name": "",
+        "photo": "",
+        "notes": "",
+        "student_group": null,
+        "birthday": "2014-11-26",
+        "ticket": "678"
+    },
+    "model": "students.student",
+    "pk": 8
+},
+{
+    "fields": {
+        "first_name": "Danylo",
+        "last_name": "Test",
+        "middle_name": "",
+        "photo": "",
+        "notes": "",
+        "student_group": null,
+        "birthday": null,
+        "ticket": ""
+    },
+    "model": "students.student",
+    "pk": 9
+},
+{
+    "fields": {
+        "notes": "",
+        "leader": null,
+        "title": "Demo Group"
+    },
+    "model": "students.group",
+    "pk": 1
+},
+{
+    "fields": {
+        "notes": "",
+        "leader": 1,
+        "title": "demo 1"
+    },
+    "model": "students.group",
+    "pk": 2
+},
+{
+    "fields": {
+        "codename": "add_logentry",
+        "name": "Can add log entry",
+        "content_type": 1
+    },
+    "model": "auth.permission",
+    "pk": 1
+},
+{
+    "fields": {
+        "codename": "change_logentry",
+        "name": "Can change log entry",
+        "content_type": 1
+    },
+    "model": "auth.permission",
+    "pk": 2
+},
+{
+    "fields": {
+        "codename": "delete_logentry",
+        "name": "Can delete log entry",
+        "content_type": 1
+    },
+    "model": "auth.permission",
+    "pk": 3
+},
+{
+    "fields": {
+        "codename": "add_permission",
+        "name": "Can add permission",
+        "content_type": 2
+    },
+    "model": "auth.permission",
+    "pk": 4
+},
+{
+    "fields": {
+        "codename": "change_permission",
+        "name": "Can change permission",
+        "content_type": 2
+    },
+    "model": "auth.permission",
+    "pk": 5
+},
+{
+    "fields": {
+        "codename": "delete_permission",
+        "name": "Can delete permission",
+        "content_type": 2
+    },
+    "model": "auth.permission",
+    "pk": 6
+},
+{
+    "fields": {
+        "codename": "add_group",
+        "name": "Can add group",
+        "content_type": 3
+    },
+    "model": "auth.permission",
+    "pk": 7
+},
+{
+    "fields": {
+        "codename": "change_group",
+        "name": "Can change group",
+        "content_type": 3
+    },
+    "model": "auth.permission",
+    "pk": 8
+},
+{
+    "fields": {
+        "codename": "delete_group",
+        "name": "Can delete group",
+        "content_type": 3
+    },
+    "model": "auth.permission",
+    "pk": 9
+},
+{
+    "fields": {
+        "codename": "add_user",
+        "name": "Can add user",
+        "content_type": 4
+    },
+    "model": "auth.permission",
+    "pk": 10
+},
+{
+    "fields": {
+        "codename": "change_user",
+        "name": "Can change user",
+        "content_type": 4
+    },
+    "model": "auth.permission",
+    "pk": 11
+},
+{
+    "fields": {
+        "codename": "delete_user",
+        "name": "Can delete user",
+        "content_type": 4
+    },
+    "model": "auth.permission",
+    "pk": 12
+},
+{
+    "fields": {
+        "codename": "add_contenttype",
+        "name": "Can add content type",
+        "content_type": 5
+    },
+    "model": "auth.permission",
+    "pk": 13
+},
+{
+    "fields": {
+        "codename": "change_contenttype",
+        "name": "Can change content type",
+        "content_type": 5
+    },
+    "model": "auth.permission",
+    "pk": 14
+},
+{
+    "fields": {
+        "codename": "delete_contenttype",
+        "name": "Can delete content type",
+        "content_type": 5
+    },
+    "model": "auth.permission",
+    "pk": 15
+},
+{
+    "fields": {
+        "codename": "add_session",
+        "name": "Can add session",
+        "content_type": 6
+    },
+    "model": "auth.permission",
+    "pk": 16
+},
+{
+    "fields": {
+        "codename": "change_session",
+        "name": "Can change session",
+        "content_type": 6
+    },
+    "model": "auth.permission",
+    "pk": 17
+},
+{
+    "fields": {
+        "codename": "delete_session",
+        "name": "Can delete session",
+        "content_type": 6
+    },
+    "model": "auth.permission",
+    "pk": 18
+},
+{
+    "fields": {
+        "codename": "add_student",
+        "name": "Can add student",
+        "content_type": 7
+    },
+    "model": "auth.permission",
+    "pk": 19
+},
+{
+    "fields": {
+        "codename": "change_student",
+        "name": "Can change student",
+        "content_type": 7
+    },
+    "model": "auth.permission",
+    "pk": 20
+},
+{
+    "fields": {
+        "codename": "delete_student",
+        "name": "Can delete student",
+        "content_type": 7
+    },
+    "model": "auth.permission",
+    "pk": 21
+},
+{
+    "fields": {
+        "codename": "add_group",
+        "name": "Can add \u0413\u0440\u0443\u043f\u0430",
+        "content_type": 8
+    },
+    "model": "auth.permission",
+    "pk": 22
+},
+{
+    "fields": {
+        "codename": "change_group",
+        "name": "Can change \u0413\u0440\u0443\u043f\u0430",
+        "content_type": 8
+    },
+    "model": "auth.permission",
+    "pk": 23
+},
+{
+    "fields": {
+        "codename": "delete_group",
+        "name": "Can delete \u0413\u0440\u0443\u043f\u0430",
+        "content_type": 8
+    },
+    "model": "auth.permission",
+    "pk": 24
+},
+{
+    "fields": {
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "is_active": true,
+        "is_superuser": true,
+        "is_staff": true,
+        "last_login": "2014-11-19T00:17:12.803Z",
+        "groups": [],
+        "user_permissions": [],
+        "password": "pbkdf2_sha256$12000$vwDz0jnc05bN$cZSSKKOkBa0RNAvEyRqNY1OrIfFpH6mpOxdLyc2aB0g=",
+        "email": "admin@admin.com",
+        "date_joined": "2014-11-01T12:59:32.011Z"
+    },
+    "model": "auth.user",
+    "pk": 1
+},
+{
+    "fields": {
+        "action_flag": 1,
+        "action_time": "2014-11-19T00:19:10.540Z",
+        "object_repr": "\u041d\u043e\u0432\u0438\u0439 \u0421\u0442\u0443\u0434\u0435\u043d\u0442",
+        "object_id": "3",
+        "change_message": "",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 1
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2014-11-19T01:03:43.054Z",
+        "object_repr": "Vitaliy Podoba",
+        "object_id": "1",
+        "change_message": "\u0417\u043c\u0456\u043d\u0435\u043d\u043e middle_name, photo, ticket \u0442\u0430 notes.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 2
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2014-11-19T01:07:31.685Z",
+        "object_repr": "Vitaliy Podoba",
+        "object_id": "1",
+        "change_message": "\u0417\u043c\u0456\u043d\u0435\u043d\u043e photo.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 3
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2014-11-19T01:07:40.159Z",
+        "object_repr": "Vitaliy Podoba",
+        "object_id": "1",
+        "change_message": "\u0417\u043c\u0456\u043d\u0435\u043d\u043e photo.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 4
+},
+{
+    "fields": {
+        "action_flag": 1,
+        "action_time": "2014-11-19T01:25:33.999Z",
+        "object_repr": "\u041d\u0430\u0437\u0430\u0440 \u041a\u0435\u043d\u044c\u043e",
+        "object_id": "4",
+        "change_message": "",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 5
+},
+{
+    "fields": {
+        "action_flag": 1,
+        "action_time": "2014-11-19T12:06:09.267Z",
+        "object_repr": "\u042f\u0440\u043e\u0441\u043b\u0430\u0432 \u0406\u0437\u0434\u0440\u0438\u043a",
+        "object_id": "5",
+        "change_message": "",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 6
+},
+{
+    "fields": {
+        "action_flag": 1,
+        "action_time": "2014-11-19T12:25:58.481Z",
+        "object_repr": "student 1 last name 1",
+        "object_id": "6",
+        "change_message": "",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 7
+},
+{
+    "fields": {
+        "action_flag": 1,
+        "action_time": "2014-11-19T12:26:12.332Z",
+        "object_repr": "demo student",
+        "object_id": "7",
+        "change_message": "",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 8
+},
+{
+    "fields": {
+        "action_flag": 1,
+        "action_time": "2014-11-19T12:30:13.991Z",
+        "object_repr": "student 3 studnet 3",
+        "object_id": "8",
+        "change_message": "",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 9
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2014-11-19T21:20:28.740Z",
+        "object_repr": "Demo Group (demo student)",
+        "object_id": "1",
+        "change_message": "\u0417\u043c\u0456\u043d\u0435\u043d\u043e leader.",
+        "user": 1,
+        "content_type": 8
+    },
+    "model": "admin.logentry",
+    "pk": 10
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2014-11-19T21:20:42.636Z",
+        "object_repr": "demo student",
+        "object_id": "7",
+        "change_message": "\u0417\u043c\u0456\u043d\u0435\u043d\u043e student_group.",
+        "user": 1,
+        "content_type": 7
+    },
+    "model": "admin.logentry",
+    "pk": 11
+},
+{
+    "fields": {
+        "action_flag": 1,
+        "action_time": "2014-11-19T21:21:35.872Z",
+        "object_repr": "demo 1 (Vitaliy Podoba)",
+        "object_id": "2",
+        "change_message": "",
+        "user": 1,
+        "content_type": 8
+    },
+    "model": "admin.logentry",
+    "pk": 12
+},
+{
+    "fields": {
+        "action_flag": 2,
+        "action_time": "2014-11-19T21:22:17.832Z",
+        "object_repr": "Demo Group",
+        "object_id": "1",
+        "change_message": "\u0417\u043c\u0456\u043d\u0435\u043d\u043e leader.",
+        "user": 1,
+        "content_type": 8
+    },
+    "model": "admin.logentry",
+    "pk": 13
+}
+]
